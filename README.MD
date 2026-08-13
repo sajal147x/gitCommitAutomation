@@ -7,4 +7,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - Guardians of the Galaxy Vol. 3 (2023)
 - Parasite (2019)
 - Coraline (2009)
+- Dune (2021)
 ## TV Shows
