@@ -4,4 +4,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 
 ## Movies
 
+- Guardians of the Galaxy Vol. 3 (2023)
 ## TV Shows
