@@ -20,4 +20,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 
 ### Movies
 
+- Pacific Rim (2013)
 ### TV Shows
