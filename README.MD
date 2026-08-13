@@ -26,3 +26,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### TV Shows
 - Scandal (2012)
 - Niña Mimada (1998)
+- Panorama (1953)
