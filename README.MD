@@ -8,4 +8,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - Parasite (2019)
 - Coraline (2009)
 - Dune (2021)
+- The Substance (2024)
 ## TV Shows
