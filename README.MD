@@ -14,3 +14,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - The Voice (2011)
 - Hunter x Hunter (2011)
 - Bares für Rares (2013)
+- Spartacus (2010)
