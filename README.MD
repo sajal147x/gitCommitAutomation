@@ -21,4 +21,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### Movies
 
 - Pacific Rim (2013)
+- Snoopy Presents: There's No Place Like Home, Snoopy (2026)
 ### TV Shows
