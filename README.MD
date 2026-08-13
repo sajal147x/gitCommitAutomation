@@ -13,3 +13,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - The West Wing (1999)
 - The Voice (2011)
 - Hunter x Hunter (2011)
+- Bares für Rares (2013)
