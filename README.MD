@@ -23,3 +23,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - The Godfather Part II (1974)
 ### TV Shows
 - Com si fos ahir (2017)
+- The Walking Dead (2010)
