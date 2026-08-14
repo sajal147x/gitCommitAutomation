@@ -19,4 +19,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### Movies
 
 - Seven Snipers (2026)
+- Coco (2017)
 ### TV Shows
