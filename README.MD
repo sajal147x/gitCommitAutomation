@@ -18,4 +18,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 
 ### Movies
 
+- Seven Snipers (2026)
 ### TV Shows
