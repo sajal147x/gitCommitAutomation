@@ -24,3 +24,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### TV Shows
 - Com si fos ahir (2017)
 - The Walking Dead (2010)
+- Vikings (2013)
