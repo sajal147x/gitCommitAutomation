@@ -32,4 +32,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 
 - Avengers: Doomsday (2026)
 - War of the Worlds (2025)
+- Spider-Man: Across the Spider-Verse (2023)
 ### TV Shows
