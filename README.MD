@@ -25,3 +25,9 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - Com si fos ahir (2017)
 - The Walking Dead (2010)
 - Vikings (2013)
+
+## 2026-08-15
+
+### Movies
+
+### TV Shows
