@@ -36,3 +36,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### TV Shows
 - RE-MAIN (2021)
 - El conquistador (2005)
+- The Voice (2011)
