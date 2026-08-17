@@ -48,3 +48,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### TV Shows
 - The Love Boat (1977)
 - Morena Clara (1994)
+- Gravity Falls (2012)
