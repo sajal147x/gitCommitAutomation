@@ -46,3 +46,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - Mission: Impossible - The Final Reckoning (2025)
 - Passenger (2026)
 ### TV Shows
+- The Love Boat (1977)
