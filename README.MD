@@ -43,4 +43,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### Movies
 
 - Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+- Mission: Impossible - The Final Reckoning (2025)
 ### TV Shows
