@@ -56,4 +56,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 
 - The Lord of the Rings: The Two Towers (2002)
 - Beast Race (2026)
+- Apex (2026)
 ### TV Shows
