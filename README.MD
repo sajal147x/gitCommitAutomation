@@ -70,3 +70,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - Vishwanath & Sons (2026)
 - Deep Water (2026)
 ### TV Shows
+- The Simpsons (1989)
