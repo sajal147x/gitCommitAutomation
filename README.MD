@@ -66,4 +66,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 
 ### Movies
 
+- Zootopia 2 (2025)
 ### TV Shows
