@@ -79,4 +79,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### Movies
 
 - Siping (2026)
+- Master of the Universe (2026)
 ### TV Shows
