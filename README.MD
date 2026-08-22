@@ -82,3 +82,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - Master of the Universe (2026)
 - Swapped (2026)
 ### TV Shows
+- Silo (2023)
