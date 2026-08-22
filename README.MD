@@ -84,3 +84,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### TV Shows
 - Silo (2023)
 - Lioness (2023)
+- Tagesschau (1952)
