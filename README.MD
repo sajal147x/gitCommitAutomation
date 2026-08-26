@@ -91,4 +91,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### Movies
 
 - Thor: The Dark World (2013)
+- Inside Out 2 (2024)
 ### TV Shows
