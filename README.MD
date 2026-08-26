@@ -95,6 +95,7 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - Doctor Strange (2016)
 - The Matrix (1999)
 - Toy Story (1995)
+- The Wild Robot (2024)
 ### TV Shows
 - Kasauti Zindagii Kay (2018)
 - The Tudors (2007)
