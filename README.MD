@@ -112,3 +112,4 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - The Isolate Thief (2026)
 - The Lion King (1994)
 ### TV Shows
+- ChocoPro Wrestling (2020)
