@@ -112,6 +112,7 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - The Isolate Thief (2026)
 - The Lion King (1994)
 - Harry Potter and the Philosopher's Stone (2001)
+- Hibla 2 (2026)
 ### TV Shows
 - ChocoPro Wrestling (2020)
 - Once Upon a Time (2011)
