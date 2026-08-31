@@ -109,4 +109,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 ### Movies
 
 - The Godfather Part II (1974)
+- The Isolate Thief (2026)
 ### TV Shows
