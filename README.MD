@@ -103,3 +103,9 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - The Late Show with Stephen Colbert (2015)
 - The Kelly Clarkson Show (2019)
 - All Elite Wrestling: Dynamite (2019)
+
+## 2026-08-31
+
+### Movies
+
+### TV Shows
