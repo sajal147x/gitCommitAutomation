@@ -128,4 +128,5 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 
 - The Avengers (2012)
 - Avatar: Fire and Ash (2025)
+- Lucky Strike (2026)
 ### TV Shows
