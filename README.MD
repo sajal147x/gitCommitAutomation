@@ -129,6 +129,7 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - The Avengers (2012)
 - Avatar: Fire and Ash (2025)
 - Lucky Strike (2026)
+- Kingdom of Heaven (2005)
 ### TV Shows
 - The West Wing (1999)
 - The Tonight Show with Jay Leno (1992)
