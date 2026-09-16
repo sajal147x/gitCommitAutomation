@@ -130,6 +130,7 @@ A joke project made purely to make the GitHub commit contribution chart look goo
 - Avatar: Fire and Ash (2025)
 - Lucky Strike (2026)
 - Kingdom of Heaven (2005)
+- The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)
 ### TV Shows
 - The West Wing (1999)
 - The Tonight Show with Jay Leno (1992)
